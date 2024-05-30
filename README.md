@@ -7,6 +7,8 @@ As it stands now, the game is still in developpement, you can mine and sell and 
 
 Plan to add (in order):
 
+-inventory outside of hotbar
+
 -craft/buy function
 
 -tool auto swap after break
