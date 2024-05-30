@@ -5,7 +5,7 @@ In this game you're a novice miner in a new Minecraft-inspired world where you s
 
 As it stands now, the game is still in developpement, you can mine and sell and all the biomes are implemented with only the Forest being accessible. Biome availability depends on tool efficiency and the game doesn't yet have a crafting function implemented for new tools.
 
-Plan to add:
+Plan to add (in order):
 
 -craft/buy function
 
